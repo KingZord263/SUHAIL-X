@@ -6,13 +6,13 @@
 
 
 
-# EMMA-XMD
+# SUHAIL-X
 
-l know you might that EMMA-XMD is a spam to your account but we have fixed all that and Suhail md is now back to be your first bot 
+l know you might that Suhail X is a spam to your account but we have fixed all that and Suhail md is now back to be your first bot 
 
-![KingZord263](https://files.catbox.moe/ek81hm.jpg)
+![KingZord263](https://files.catbox.moe/6f05ah.jpg)
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+EMMA+IS+READY;TO+RULE+ON+WHATSAPP+AGAIN" alt="Footer Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+SUHAIL+X+IS+READY;TO+RULE+ON+WHATSAPP+AGAIN" alt="Footer Animation">
 </h3>
 
 
@@ -22,7 +22,7 @@ l know you might that EMMA-XMD is a spam to your account but we have fixed all t
 </p>
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=110&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=EMMA-XMD)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=110&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=SUHAIL-X)
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
@@ -36,21 +36,21 @@ l know you might that EMMA-XMD is a spam to your account but we have fixed all t
 
 First star & Fork the repo using the button below!
 
-[![FORK_REPOSITORY](https://img.shields.io/badge/FORK_REPOSITORY-FF5500?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Ola1i2/Emma123/fork)
+[![FORK_REPOSITORY](https://img.shields.io/badge/FORK_REPOSITORY-FF5500?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/KINGZORD263/SUHAIL-X/fork)
 
 ---
 
 ### 2. Get Session ID
 
 ### 😆 PORTAL CODE
-[![PORTAL_CODE](https://img.shields.io/badge/PORTAL_CODE-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)]()
+[![PORTAL_CODE](https://img.shields.io/badge/PORTAL_CODE-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://suhail-md-vtsf.onrender.com/)
 
 
 #### 😆 OPTION ONE
-[![PAIR_CODE_1](https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)]()
+[![PAIR_CODE_1](https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://suhail-md-vtsf.onrender.com/code)
 
 #### 😉 OPTION TWO
-[![PAIR_CODE_2](https://img.shields.io/badge/PAIR_CODE_2-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)]()
+[![PAIR_CODE_2](https://img.shields.io/badge/PAIR_CODE_2-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://suhail-md-vtsf.onrender.com/scan)
 
 > Connection issues may require VPN activation.
 
@@ -63,11 +63,11 @@ First star & Fork the repo using the button below!
 
 | Heroku | TalkDrove |
 |--------|-----------|
-| [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff)](https://dashboard.heroku.com/new?template=https://github.com/Ola1i2/EMMA123/tree/main) | [![TalkDrove](https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://talkdrove.com/share-bot/11) |
+| [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff)](https://dashboard.heroku.com/new?template=https://github.com/KingZord263/SUHAIL-X/tree/main) | [![TalkDrove](https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://talkdrove.com/share-bot/11) |
 
 | Koyeb | Railway |
 |-------|---------|
-| [![Koyeb](https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000)](https://app.koyeb.com/services/deploy?type=git&repository=Ola1i2/EMMA123) | [![Railway](https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000)](https://railway.app/new) |
+| [![Koyeb](https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000)](https://app.koyeb.com/services/deploy?type=git&repository=KINGZORD263/SUHAIL-X) | [![Railway](https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000)](https://railway.app/new) |
 
 | Render | Netlify |
 |--------|---------|
@@ -109,7 +109,7 @@ First star & Fork the repo using the button below!
 # THANKS TO 
 
 
- EMMA MD TECH 
+ SUHAIL MD TECH 
 
 FOLLOW FOR UPDATES
 
@@ -124,7 +124,7 @@ FOLLOW FOR UPDATES
  
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+EMMA+XMD+V3+Edition+by+SUHAIL+KINGS;⚡+The+Future+of+WhatsApp+Bots+is+Here" alt="Footer Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+SUHAIL+XMD+V3+Edition+by+SUHAIL+KINGS;⚡+The+Future+of+WhatsApp+Bots+is+Here" alt="Footer Animation">
 </h3>
 
 <p align="center">
@@ -138,3 +138,4 @@ BESIDES THIS BOT WHICH ONE WOULD YOU BEATS IT
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
+
